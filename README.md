@@ -4,6 +4,9 @@
 <img width="1120" alt="Screenshot 2024-08-13 at 4 55 12 PM" src="https://github.com/user-attachments/assets/e2f712ad-53d5-4660-952a-f61484de1441">
 <img width="1008" alt="Screenshot 2024-08-13 at 5 16 52 PM" src="https://github.com/user-attachments/assets/cd851ff9-723c-426a-9ad4-b492c2f606f1">
 
+**🎥 Project Showcase**  
+[![Project Showcase](https://img.youtube.com/vi/NewYcOkxHnY/0.jpg)](https://www.youtube.com/watch?v=NewYcOkxHnY)
+
 ## Overview
 
 This project is part of the Unity VR Developer Pathway. The VR Room Project focuses on creating an immersive, fully interactive virtual reality experience using Unity and C#. The room features detailed 3D models, user interactions, and a thoughtfully designed environment that allows users to navigate and interact within the VR space.
